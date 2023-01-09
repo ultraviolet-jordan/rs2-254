@@ -1,5 +1,5 @@
-# rs2-299
-A RuneScape 299 Client From 2005.
+# rs2-254
+A RuneScape 254 Client From 2004.
 
 Deobfuscated and decompiled using [OpenRS2](https://git.openrs2.org/openrs2/openrs2).
 
