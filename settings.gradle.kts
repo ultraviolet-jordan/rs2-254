@@ -16,4 +16,3 @@ val modules = listOf(
 )
 
 include(modules)
-include("client")
